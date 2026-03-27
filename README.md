@@ -2,6 +2,8 @@
 
 > Our flavour of BugSink
 
+<img src='logo/bg.png' width='100px' />
+
 We intend to keep this updated with upstream and maintain only minor differences.
 
 
